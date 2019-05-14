@@ -1,7 +1,7 @@
 package sg.edu.rp.c346.demodatabase;
 
 public class Task {
-    private  int id;
+    private int id;
     private String description;
     private  String date;
 
